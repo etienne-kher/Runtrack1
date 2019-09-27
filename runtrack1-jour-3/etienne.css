@@ -1,0 +1,28 @@
+body{
+		background-color:black;
+		font-family:'Mansalva', cursive;
+		color: white;
+	}
+.debu{
+	display:inline;
+	margin-left: 75px;
+	
+}
+li{
+	list-style:khmer;
+}
+.hiden{
+	list-style:none;
+}
+a{	text-decoration: none;
+	color: #8a0303;
+}
+ .margeDiv{
+	margin-left: 18%;
+	border-style:groove;
+	width: 800px;
+	}
+.g{
+	font-style: italic;
+}
+h2{text-decoration:underline;}

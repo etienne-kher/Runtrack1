@@ -1,0 +1,56 @@
+body{
+		background-color:#e9c2a5;
+		font-family:cursive;
+	}
+ul{
+		list-style:none;
+	}
+.margeDiv{
+			margin-left:15%;
+			margin-bottom:3%;
+			border-style:groove;
+			border-radius:10px 20px;
+			border-color:white;
+			background-color:#e76453;
+			color: white;
+			width: 800px;
+		}
+		@keyframes anim {
+  0% { top: 0; left: 0; }
+  50% { top: 0; left: 500px; }
+  100% { top: 0; left: 0; }
+}
+#headDiv{
+		background-color:white;	
+		border-style:solid dashed;
+		border-width:10px 7px;
+		border-color:orange;
+		border-radius:10px 50px;
+		width:500px;
+		margin-left:15%;
+		position:relative;
+		animation-name: anim ;
+		animation-duration:3s;
+		animation-iteration-count: infinite;
+		
+}
+.g{
+	font-weight: bold;
+}
+
+a{	text-decoration: none;
+	color:#61db71;
+}
+a:hover{
+	color:yellow; font-size:210%;
+	}
+h2{
+	text-decoration:underline;
+	text-transform:uppercase;	
+	margin-left:10px;
+}
+marquee{
+	border-style:solid;
+	background-color:white;
+	border-radius: 20px;
+}

@@ -1,0 +1,81 @@
+body{
+    background-image: url("fondgeo.jpg");
+    background-size:contain;
+}
+h1{
+    text-align:center;
+    color: #114983;
+    font-family:Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 80px;
+    text-decoration:underline;
+    text-shadow: 2px 2px 2px;
+    
+}
+img{
+    width:180px;
+    height:200px;
+}
+div{display: inline-block;
+    margin-left:42px;
+    text-align:center;
+    margin-top:50px;
+    width: 200px;
+    height: 220px
+}
+a {
+    text-decoration:none;
+}
+.solenn{
+    border-style:none;
+    border-color:#0A7271;
+    background-color:#F9EEBD;
+}
+.matteo{
+    border-style:none;
+    border-color:#0A7271;
+    background-color:#F9EEBD;
+}
+.gwenael{
+    border-style:none;
+    border-color:#0A7271;
+    background-color:#F9EEBD;
+}
+.zaccaria{
+    border-style:none;
+    border-color:#0A7271;
+    background-color:#F9EEBD;
+}
+.etienne{
+    border-style:none;
+    border-color:#0A7271;
+    background-color:#F9EEBD;
+}   
+p{
+        position:relative;
+        top: 100px;
+        left:800px;
+        width: 400px;
+        font-family: 'Nunito', sans-serif;
+        font-size: 30px;
+        color: #0A7271;
+        background-color:rgba(249, 238, 189, 0.301);
+        text-align:center;
+}
+iframe{
+    position:relative;
+        top: -180px;
+        left:80px;
+        width: 600px;
+}
+footer {
+    position:relative;
+    top: -250px;
+    width: 400px;
+    right: 350px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: #0A7271;
+    background-color:rgba(249, 238, 189, 0.301);
+    text-align:center;
+}
